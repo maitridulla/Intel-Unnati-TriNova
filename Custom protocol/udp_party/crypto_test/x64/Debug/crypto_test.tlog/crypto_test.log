@@ -1,0 +1,11 @@
+﻿  crypto_wrapper_empty.cpp
+C:\Program Files\OpenSSL-Win64\include\openssl\evp.h(14,11): error C1083: Cannot open include file: 'openssl/macros.h': No such file or directory
+  crypto_wrapper_mbedtls.cpp
+C:\Program Files\OpenSSL-Win64\include\openssl\evp.h(14,11): error C1083: Cannot open include file: 'openssl/macros.h': No such file or directory
+  crypto_wrapper_openssl.cpp
+C:\Program Files\OpenSSL-Win64\include\openssl\evp.h(14,11): error C1083: Cannot open include file: 'openssl/macros.h': No such file or directory
+  types.cpp
+  utils.cpp
+  main.cpp
+C:\Users\DELL\Downloads\Intel-Unnati-Project-main\Custom protocol\udp_party\crypto_test\main.cpp(4,10): error C1083: Cannot open include file: 'utils.h': No such file or directory
+  Generating Code...
