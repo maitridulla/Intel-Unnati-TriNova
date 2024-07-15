@@ -1,0 +1,17 @@
+﻿  crypto_wrapper_empty.cpp
+  crypto_wrapper_mbedtls.cpp
+  crypto_wrapper_openssl.cpp
+C:\Users\Koushik\Downloads\Intel Project\Custom protocol\udp_party\crypto_wrapper_openssl.cpp(114,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Koushik\Downloads\Intel Project\Custom protocol\udp_party\crypto_wrapper_openssl.cpp(123,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Koushik\Downloads\Intel Project\Custom protocol\udp_party\crypto_wrapper_openssl.cpp(132,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Koushik\Downloads\Intel Project\Custom protocol\udp_party\crypto_wrapper_openssl.cpp(228,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Koushik\Downloads\Intel Project\Custom protocol\udp_party\crypto_wrapper_openssl.cpp(233,67): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Koushik\Downloads\Intel Project\Custom protocol\udp_party\crypto_wrapper_openssl.cpp(327,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Koushik\Downloads\Intel Project\Custom protocol\udp_party\crypto_wrapper_openssl.cpp(332,67): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Koushik\Downloads\Intel Project\Custom protocol\udp_party\crypto_wrapper_openssl.cpp(564,1): warning C4102: 'err': unreferenced label
+C:\Users\Koushik\Downloads\Intel Project\Custom protocol\udp_party\crypto_wrapper_openssl.cpp(710,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  types.cpp
+  utils.cpp
+  main.cpp
+  Generating Code...
+  crypto_test.vcxproj -> C:\Users\Koushik\Downloads\Intel Project\Custom protocol\udp_party\x64\Debug\crypto_test.exe
